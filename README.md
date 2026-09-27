@@ -33,7 +33,7 @@ Generate Anki flashcards for Quran Surahs using the [Al-Quran Cloud API](https:/
 
 2. Install the dependency:
    ```bash
-   pip install requests
+   pip install -r requirements.txt
    ```
 
 3. Import the Anki note type:
